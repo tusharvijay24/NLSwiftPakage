@@ -8,8 +8,8 @@
 import Foundation
 
 // MARK: - NLSwift
-class NLSwift {
-    public static let shared = NLSwift()
+public class NLSwift {
+    
     public init() {}
     
     // Main request function
