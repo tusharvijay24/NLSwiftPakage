@@ -1,3 +1,3 @@
 # NLSwiftPakage
 
-A description of this package.
+A simple network library written in swift.
